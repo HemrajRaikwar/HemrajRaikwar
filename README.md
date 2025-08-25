@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I have a PhD in Computer Science from IIT Guwahati. My PhD research presents several incremental, decremental, and fully dynamic algorithms for the dynamic Steiner tree problem.
 - I have expertise in dynamic algorithms, approximation algorithms, graph algorithms, computational complexity, complexity classes, and other theoretical computer science concepts.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently rehearsing Python and C++.
 - 👯 I’m looking to collaborate on algorithmic problems, Python projects, and algo trading strategies.
 - 💬 Ask me about academia, higher education in India and abroad, theoretical computer science research, algorithmic problems, Indian stock market trading, and lifestyle management. 
 - 📫 How to reach me: hemrajraikwar@gmail.com, +918358001417.
