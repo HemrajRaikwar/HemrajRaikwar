@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 - Hobbies: Badminton, cricket, technical discussions, morning walk, tours to the North-East, Coffee+Maggie, and Chai as well.
 - Fun fact: I have a PhD in computer science, but I encourage people for small businesses more than education.
 
+
 <!--
 - 🤔 I’m looking for help with ...
 - ⚡  ...
 
 -->
+# हमी नवोदय हों
