@@ -1,9 +1,10 @@
 # About me
 
-
+<!--
 **HemrajRaikwar/HemrajRaikwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+
+-->
 
 - 🔭 I have a PhD in Computer Science from IIT Guwahati. My PhD research presents several incremental, decremental, and fully dynamic algorithms for the dynamic Steiner tree problem.
 - I have expertise in dynamic algorithms, approximation algorithms, graph algorithms, computational complexity, complexity classes, and other theoretical computer science concepts.
